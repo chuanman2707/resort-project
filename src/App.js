@@ -22,4 +22,5 @@ function App() {
   );
 }
 
+console.log(process.env.ACCESS_SPACE)
 export default App;
